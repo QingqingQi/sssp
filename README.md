@@ -1,4 +1,4 @@
-## SSSP 项目整合
+# SSSP 项目整合
 # Spring + SpringMVC + SpringData + JPA 项目的 CRUD 案例
 # 包括：
   1. 开发环境的搭建
